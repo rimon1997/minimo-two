@@ -1,0 +1,215 @@
+*{
+        margin: 0;
+        padding: 0;
+        margin-top: 20px;
+}
+
+
+header{
+        overflow: hidden;
+        width: 80%;
+        margin: auto;
+}
+
+.logo{
+
+/* background-color: chartreuse; */
+
+width: 20%;
+
+float: left;
+}
+
+.logo img{
+
+width: 100%;
+}
+
+.menu{
+        /* background-color: aqua; */
+        width: 70%;
+        float: right;}
+
+.menu ul{
+
+float: right;
+
+list-style: none;
+}
+
+.menu ul li{
+        float: left;
+        margin-left: 50px;
+}
+
+.menu ul li a{
+
+text-decoration: none;
+
+text-transform: uppercase;
+
+color: #626262;
+}
+
+
+.section{
+
+
+}
+
+.benner{
+
+width: 80%;
+
+margin: auto;
+
+margin-top: 70px;
+}
+
+.benner img{
+
+width: 100%;
+}
+
+.pdy{
+
+
+}
+.photodiary{width: 70%;margin: auto;}
+.photodiary h3{
+
+color: #b4ad9e;
+
+text-transform: uppercase;
+}
+
+.photodiary h1{
+
+color: #626262;
+}
+
+.photodiary p{
+
+color: #626262;
+}
+
+.lifestyle{
+
+width: 70%;
+
+margin: auto;
+
+margin-top: 50px;
+}
+
+.festival{float: left;width: 45%;}
+.festival img{
+
+width: 100%;
+}
+
+.festival h3{
+
+color: #b4ad9e;
+
+text-transform: uppercase;
+}
+
+.festival h1{
+
+color: #626262;
+}
+
+.festival p{
+
+color: #626262;
+}
+
+.coffee{
+
+width: 45%;
+
+float: left;
+
+margin-left: 79px;
+}
+
+.coffee img{width: 100%;}
+
+.coffee h3{
+
+color: #b4ad9e;
+
+text-transform: uppercase;
+}
+
+.coffee h1{
+
+color: #626262;
+}
+
+.coffee p{
+
+color: #626262;
+}
+
+.photogelary{
+
+width: 70%;
+
+margin: auto;
+
+margin-top: 50px;
+}
+.dream{
+
+width: 45%;
+
+float: left;
+}
+.dream img{
+
+width: 100%;
+}
+
+.dream h3{
+
+color: #b4ad9e;
+
+text-transform: uppercase;
+}
+
+.dream h1{color: #626262;}
+
+.dream p{
+
+}
+
+.exploring{
+
+width: 45%;
+
+float: right;
+}
+.exploring img{
+
+}
+
+.exploring h3{
+
+color: #b4ad9e;
+
+text-transform: uppercase;
+}
+
+
+.exploring h1{
+
+color: #626262;
+}
+
+.exploring p{
+
+color: #626262;
+}
+
